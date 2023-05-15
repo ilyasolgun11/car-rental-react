@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/car-rental-react/static/css/main.46b94488.css",
+    "main.js": "/car-rental-react/static/js/main.66ce8e2f.js",
+    "static/js/787.a432e615.chunk.js": "/car-rental-react/static/js/787.a432e615.chunk.js",
+    "static/media/BMWM2.png": "/car-rental-react/static/media/BMWM2.4b5197723381c3653c52.png",
+    "static/media/main-car.png": "/car-rental-react/static/media/main-car.31c6ea4ebedf515597bb.png",
+    "static/media/BMWX6.png": "/car-rental-react/static/media/BMWX6.31ff5489a73de55032c8.png",
+    "static/media/VolvoXC60.png": "/car-rental-react/static/media/VolvoXC60.4b9b750786254a27d526.png",
+    "static/media/AudiA1Sline.png": "/car-rental-react/static/media/AudiA1Sline.ce14e9bd1802b279a9d5.png",
+    "static/media/phone-img.png": "/car-rental-react/static/media/phone-img.19f104a463d681c98c7f.png",
+    "static/media/Fiat500.png": "/car-rental-react/static/media/Fiat500.92af7ea720a64069ca36.png",
+    "static/media/AudiA6.png": "/car-rental-react/static/media/AudiA6.259e01506cf31bd48367.png",
+    "static/media/TeslaModel3.png": "/car-rental-react/static/media/TeslaModel3.bcd78970a9ea7de6b2e4.png",
+    "static/media/main-bg.png": "/car-rental-react/static/media/main-bg.06ab94c003db174cb0cc.png",
+    "static/media/bg-img-style-2.png": "/car-rental-react/static/media/bg-img-style-2.608ea3b0497f88157e52.png",
+    "static/media/google.png": "/car-rental-react/static/media/google.3d672f4e032756c7faff.png",
+    "static/media/bg-img-style.png": "/car-rental-react/static/media/bg-img-style.347936fb72516165b3ed.png",
+    "static/media/apple.png": "/car-rental-react/static/media/apple.113b61e8419f9af887ab.png",
+    "static/media/support.png": "/car-rental-react/static/media/support.df5895c3cd285df5ed14.png",
+    "static/media/cardriving.png": "/car-rental-react/static/media/cardriving.3f22a84ccdf9acf58830.png",
+    "static/media/women-1.jpg": "/car-rental-react/static/media/women-1.03c486634a6030b00794.jpg",
+    "static/media/approved.png": "/car-rental-react/static/media/approved.2c8d9f366193f0385006.png",
+    "static/media/blob.png": "/car-rental-react/static/media/blob.2c8cc8f6e6a9e0bd10bc.png",
+    "static/media/man-1.avif": "/car-rental-react/static/media/man-1.b2fa3eb3f06b9fab5804.avif",
+    "static/media/logo.png": "/car-rental-react/static/media/logo.7282161a78526134aa8b.png",
+    "index.html": "/car-rental-react/index.html",
+    "main.46b94488.css.map": "/car-rental-react/static/css/main.46b94488.css.map",
+    "main.66ce8e2f.js.map": "/car-rental-react/static/js/main.66ce8e2f.js.map",
+    "787.a432e615.chunk.js.map": "/car-rental-react/static/js/787.a432e615.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b94488.css",
+    "static/js/main.66ce8e2f.js"
+  ]
+}
