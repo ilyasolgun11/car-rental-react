@@ -1,0 +1,76 @@
+.car-images {
+  width: 150%;
+}
+
+.row .col-md-12 {
+  display: flex;
+  justify-content: space-between;
+  padding: 9px 10px;
+  margin-top: 2px;
+}
+
+.rental-data-container {
+  width: 100%;
+
+  background-color: rgb(250, 250, 250);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.rental-data-container .col-md-12 {
+  border-bottom: 2px solid rgb(195, 195, 195);
+}
+
+.rental-data-container .col-md-12:nth-of-type(6) {
+  border-bottom: none;
+  padding-bottom: 15px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.rental-buttons {
+  width: 100%;
+  background-color: red;
+}
+
+.header-container {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: white;
+  font-size: 1.4rem;
+  padding: 10px 19px;
+  width: 100%;
+  background-color: red;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+.outer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+
+.price-style {
+  font-weight: 700;
+  font-size: 1.7rem;
+}
+
+@media only screen and (max-width: 767px) {
+  .car-images {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 93%;
+  }
+  .header-container {
+    box-shadow: none;
+  }
+  .outer-container {
+    box-shadow: none;
+  }
+  .rental-data-container {
+    background-color: rgb(238, 238, 238);
+  }
+}
